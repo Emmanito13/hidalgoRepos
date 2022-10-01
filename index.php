@@ -3,8 +3,7 @@ session_start();
 if(empty($_SESSION['band'])){
     $band = 'true';    
 }else{
-    $band = $_SESSION['band'];
-    
+    $band = $_SESSION['band'];    
 }
 ?>
 
