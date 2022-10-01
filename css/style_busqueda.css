@@ -1,0 +1,21 @@
+.lead {
+    font-size: 1.25rem;
+}
+
+.form-control {
+    margin-bottom: 3%;
+    font-size: 1.1rem;
+}
+
+textarea {
+    resize: none;
+}
+
+.container-section {
+    background-color: #FAF7EE;
+}
+
+.ajs-header {
+    background: #203C6C !important;
+    color: #FFF !important;
+}

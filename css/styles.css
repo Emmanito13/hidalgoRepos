@@ -1,0 +1,85 @@
+#pri {
+    float: left;
+    max-width: 25%;
+    background-color: #fff;
+    min-height: 95vh;
+}
+
+#seg {
+    float: left;
+    max-width: 75%;
+    background-color: #fff;
+    min-height: 95vh;
+}
+
+.b-p {
+    padding: 6.5px;
+    font-size: 18px;
+    color: #FFF;
+    background-color: #203C6C;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+}
+
+.b-p:hover {
+    color: #203C6C;
+    background-color: #FFF;
+}
+
+.b-p:active {
+    color: #203C6C;
+    background-color: #FFF;
+}
+
+.lead {
+    font-size: 1.25rem;
+    margin-bottom: auto;
+    text-align: left;
+    color: #FFF;
+}
+
+.form-control {
+    margin-bottom: 3%;
+    font-size: 1.1rem;
+    width: 100%;
+}
+
+.ajs-header {
+    background: #203C6C !important;
+    color: #FFF !important;
+}
+
+.containerOwnApp {
+    box-shadow: 0 0 27px 0 rgba(84, 84, 84, 0.62);
+    padding-top: 15px;
+}
+
+.login-page {
+    padding: 18% 0 0;
+    margin: 0 auto 100px;
+    max-width: 360px;
+    position: relative;
+}
+
+.login-form {
+    box-shadow: 0 0 27px 0 rgba(84, 84, 84, 0.62);
+}
+
+.login-form-header {
+    padding-top: 16px;
+}
+
+.login-from-row {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.login-form-font-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.login-form-font-header span {
+    color: #007C9B;
+}
+
